@@ -5,3 +5,4 @@ List of Assignments completed
 3. Assignment 3 --> Basic Statistics
 4. Assignment 4 --> Basic Statistics 2
 5. Assignment 5 --> EDA
+6. Assignment 6 -->Hypothesis Testing
