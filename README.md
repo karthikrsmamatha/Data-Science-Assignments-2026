@@ -7,4 +7,5 @@ List of Assignments completed
 5. Assignment 5 --> EDA
 6. Assignment 6 --> Hypothesis Testing
 7. Assignment 7 --> Multiple Linear Regression
-8. Assignment 8 --> Data Transformation
+8. Assignment 8 --> Logistic Regression
+9. Assignment 9 --> Data Transformation
