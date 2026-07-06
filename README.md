@@ -6,4 +6,5 @@ List of Assignments completed
 4. Assignment 4 --> Basic Statistics 2
 5. Assignment 5 --> EDA
 6. Assignment 6 --> Hypothesis Testing
-7. Assignment 6 --> Multiple Linear Regression
+7. Assignment 7 --> Multiple Linear Regression
+8. Assignment 8 --> Data Transformation
