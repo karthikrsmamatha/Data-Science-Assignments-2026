@@ -9,3 +9,4 @@ List of Assignments completed
 7. Assignment 7 --> Multiple Linear Regression
 8. Assignment 8 --> Logistic Regression
 9. Assignment 9 --> Data Transformation
+10. Assignment 10 --> SVM
