@@ -10,3 +10,4 @@ List of Assignments completed
 8. Assignment 8 --> Logistic Regression
 9. Assignment 9 --> Data Transformation
 10. Assignment 10 --> SVM
+11. Assignment 11 --> Decision Tree
