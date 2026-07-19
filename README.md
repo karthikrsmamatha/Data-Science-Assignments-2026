@@ -11,3 +11,4 @@ List of Assignments completed
 9. Assignment 9 --> Data Transformation
 10. Assignment 10 --> SVM
 11. Assignment 11 --> Decision Tree
+12. Assignment 12 --> Random Forest
