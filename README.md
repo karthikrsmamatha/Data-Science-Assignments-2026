@@ -13,3 +13,4 @@ List of Assignments completed
 11. Assignment 11 --> Decision Tree
 12. Assignment 12 --> Random Forest
 13. Assignment 13 --> XGBM & LGBM
+14. Assignment 14 --> PCA
