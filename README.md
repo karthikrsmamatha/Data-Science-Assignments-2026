@@ -17,3 +17,4 @@ List of Assignments completed
 15. Assignment 15 --> Clustering Analysis
 16. Assignment 16 --> Recommendation System
 17. Assignment 17 --> Timeseries
+18. Assignment 18 --> Neural Networks
