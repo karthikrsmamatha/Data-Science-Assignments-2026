@@ -16,3 +16,4 @@ List of Assignments completed
 14. Assignment 14 --> PCA
 15. Assignment 15 --> Clustering Analysis
 16. Assignment 16 --> Recommendation System
+17. Assignment 17 --> Timeseries
