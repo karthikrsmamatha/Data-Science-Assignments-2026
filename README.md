@@ -18,3 +18,4 @@ List of Assignments completed
 16. Assignment 16 --> Recommendation System
 17. Assignment 17 --> Timeseries
 18. Assignment 18 --> Neural Networks
+19. Assignment 19 --> NLP
